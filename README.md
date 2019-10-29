@@ -1,7 +1,7 @@
 # Advertising-Data-Analysis
 
 # Overview
-se machine learning algorithms to build a forecast model to estimate the clickthrough rate on online advertising. Explore data on user information and user behavior, which means predict the click rate of an ad given the relevant ads, media, users, contextual content, etc.
+Use machine learning algorithms to build a forecast model to estimate the clickthrough rate on online advertising. Explore data on user information and user behavior, which means predict the click rate of an ad given the relevant ads, media, users, contextual content, etc.
 
 # Requirement
 - python 3.6.5
